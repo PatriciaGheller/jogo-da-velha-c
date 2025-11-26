@@ -8,10 +8,12 @@ O jogo roda diretamente no terminal e permite que dois jogadores se enfrentem al
 ## 🚀 Como compilar e executar
 
 No terminal, utilizando o compilador GCC:
-
-```bash
+bash
 gcc jogo_da_velha.c -o jogo_da_velha
 ./jogo_da_velha
+
+
+
 
 ## 🎯 Funcionalidades
 - Dois jogadores humanos (X e O)
@@ -24,15 +26,20 @@ gcc jogo_da_velha.c -o jogo_da_velha
 
 - Detecção de empate quando o tabuleiro está cheio
 
-- Interface simples e intuitiva
+- Interface simples e intuitiva 
+
+
 
 ## 📂 Estrutura do projeto
 - jogo.c → código-fonte principal
 
 - README.md → documentação do projeto
 
+
+
 ## 🖥️ Exemplo de execução
 
+```
    |   |   
 ---+---+---
    |   |   
@@ -46,6 +53,11 @@ Entre com as coordenadas: 0 0
    |   |   
 ---+---+---
    |   |   
+ 
+```  
 
+
+```
 👩‍💻 Autor
 Desenvolvido por Patrícia Gheller
+```
